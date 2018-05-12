@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26471'
     url: http://www.gutenberg.org/2009/agents/26471
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24416#Life-and-Work-in-Benares-and-Kumaon-1839-1877
 gutenberg_bookshelf: India
 gutenberg_issued: '2008-01-24'
 gutenberg_type: Text
